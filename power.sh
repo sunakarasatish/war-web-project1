@@ -1,2 +1,0 @@
-say hello
-hai man
