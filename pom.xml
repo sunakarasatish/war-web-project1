@@ -5,7 +5,7 @@
   <version>1.0.0</version>
   <packaging>war</packaging>
   <name>WAR WEB Project</name>
-  <description>A very simple Maven-enabled WAR web project</description>
+  <description>A very simple Maven-enabled WAR web project</description>mahibro
   <dependencies>
   	<dependency>
   		<groupId>com.google.code.gson</groupId>
